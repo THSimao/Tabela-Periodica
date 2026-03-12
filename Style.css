@@ -1,0 +1,36 @@
+.borda {text-align: center ; 
+        border: solid;
+border-radius: 8px;}
+
+div { text-align: left;}
+
+table { width: 90%;
+        margin:auto;
+        margin-top: 3vh;
+        height:95vh;
+        border-radius: 3px}
+        .borda:hover{
+
+                transform: scale(1.9);
+                z-index: 10;
+                box-shadow: 0 0 15px;}
+td {
+        transition: 0.2s;
+    width: 5%;
+    height: 7vh;
+    
+}
+
+.leg {font-size: 16px; background-position: center;}
+.naometais { background-color: chartreuse;}
+.gasesnobres { background-color: rgb(175, 124, 223);}
+.metaisalcalinos { background-color: gold}
+.metaisterrosos { background-color: bisque;}
+.Semimetais { background-color: rgb(110, 212, 190);}
+.Halogênios { background-color: rgb(11, 204, 238);}
+.outrosmetais { background-color: rgb(175, 187, 185);}
+.metaistransiçao { background-color: rgb(199, 53, 53);}
+.latanideos {background-color: azure;}
+.actinidios { background-color: plum;}
+
+img {text-align:left;}
